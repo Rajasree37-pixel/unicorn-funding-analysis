@@ -39,6 +39,9 @@ See `sql_queries/` folder for:
 3. Export results to Excel and create pivot table
 4. See `reports/` for full analysis
 
+##Presentation
+- Unicorn Project Presentation (Unicorn_Project_Presntation.pptx)
+
 ## Author
 Samala Raja Sree  
 Data Analytics Learner | SQL | Excel | Python
